@@ -19,5 +19,5 @@ This app allows a user to input information about themselves, where after fillin
 
 ### Optional Features
 
-- [X] 3. User can also add their hobbies in a text box.
-- [X] 4. From default styling of the first and last names was changed.
+- [X] 1. User can also add their hobbies in a text box.
+- [X] 2. From default styling of the first and last names was changed.
